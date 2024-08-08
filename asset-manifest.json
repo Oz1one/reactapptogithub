@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/reactapptogithub/static/css/main.f855e6bc.css",
-    "main.js": "/reactapptogithub/static/js/main.aa2a701c.js",
+    "main.css": "/reactapptogithub/static/css/main.abc5e92c.css",
+    "main.js": "/reactapptogithub/static/js/main.1775caac.js",
     "static/js/453.7f9a4a55.chunk.js": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js",
-    "static/media/logo.svg": "/reactapptogithub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Video2.mp4": "/reactapptogithub/static/media/Video2.502794ce5ff613297e3f.mp4",
+    "static/media/Video3.mp4": "/reactapptogithub/static/media/Video3.d9d073a4cf102e56251b.mp4",
+    "static/media/Video4.mp4": "/reactapptogithub/static/media/Video4.e671973e26111d096668.mp4",
+    "static/media/Video6.mp4": "/reactapptogithub/static/media/Video6.2c4b225c4ad31ee37fa6.mp4",
+    "static/media/Video1.mp4": "/reactapptogithub/static/media/Video1.8fd66aa10915ebc30dd0.mp4",
+    "static/media/Video5.mp4": "/reactapptogithub/static/media/Video5.c2d8768ae0db4168164c.mp4",
     "index.html": "/reactapptogithub/index.html",
-    "main.f855e6bc.css.map": "/reactapptogithub/static/css/main.f855e6bc.css.map",
-    "main.aa2a701c.js.map": "/reactapptogithub/static/js/main.aa2a701c.js.map",
+    "main.abc5e92c.css.map": "/reactapptogithub/static/css/main.abc5e92c.css.map",
+    "main.1775caac.js.map": "/reactapptogithub/static/js/main.1775caac.js.map",
     "453.7f9a4a55.chunk.js.map": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.aa2a701c.js"
+    "static/css/main.abc5e92c.css",
+    "static/js/main.1775caac.js"
   ]
 }
