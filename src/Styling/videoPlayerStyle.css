@@ -1,0 +1,39 @@
+.video-player-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+  }
+  .video-content{
+    overflow-x:visible;
+  }
+  /* Video player styles */
+  .videoPlayerStyle {
+    width: 80%; /* Ensure the video player takes full width of its container */
+    max-width: 250%;
+    height: auto; /* Maintain aspect ratio */
+
+  }
+  
+  /* Controls styles */
+  .controls {
+    margin-top: 2px; /* Adjust spacing between video and controls */
+  }
+  
+  .controls button {
+    background-color: #007bff; /* Blue color for button background */
+    color: #fff; /* White text color */
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .controls button:focus {
+    outline: none;
+  }
+  
+  .controls button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
