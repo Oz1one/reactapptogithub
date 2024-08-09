@@ -13,8 +13,10 @@ export default function GalleryHome() {
       <Gallery/>
       </div>
       </div>
-    <footer>
-      <Link to='/Blessings' >Press Here to view your blessings</Link>  
+    <footer className='controls'>
+      
+      <button><Link to='/Blessings' >Press Here to view your blessings</Link>  </button>
+      
     </footer>
     </>
   );

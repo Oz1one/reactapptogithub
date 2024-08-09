@@ -1,15 +1,11 @@
 .footer{
     background-color: #004080;
+
 }
 .footer>div{
     color: #fff;
 }
-.cdaclogo{
-    align-items:center ;
-    height: 10rem;
-    width: 40rem;
-    
-}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -17,7 +13,7 @@
     font-family: 'PT Sans', sans-serif;
   }
   
-  .home,.sign-up,.contact-us{
+  .home{
     display: flex;
     height: 90vh;
     align-items: center;
@@ -58,3 +54,26 @@
   justify-content: center;
   margin-top: 0.007rem;
 }
+
+.controls {
+  margin-top: 2px; 
+}
+
+.controls button {
+  background-color: #007bff; 
+  color: #fff; 
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.controls button:focus {
+  outline: none;
+}
+
+.controls button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+
