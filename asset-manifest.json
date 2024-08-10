@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactapptogithub/static/css/main.27413186.css",
-    "main.js": "/reactapptogithub/static/js/main.8b81f7be.js",
+    "main.js": "/reactapptogithub/static/js/main.671de1cf.js",
     "static/js/453.7f9a4a55.chunk.js": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js",
     "static/media/Video7.mp4": "/reactapptogithub/static/media/Video7.1f62a3eb72eecb18f11d.mp4",
     "static/media/Video3.mp4": "/reactapptogithub/static/media/Video3.d9d073a4cf102e56251b.mp4",
@@ -17,11 +17,11 @@
     "static/media/Video9.mp4": "/reactapptogithub/static/media/Video9.afe6326c3015afbdb926.mp4",
     "index.html": "/reactapptogithub/index.html",
     "main.27413186.css.map": "/reactapptogithub/static/css/main.27413186.css.map",
-    "main.8b81f7be.js.map": "/reactapptogithub/static/js/main.8b81f7be.js.map",
+    "main.671de1cf.js.map": "/reactapptogithub/static/js/main.671de1cf.js.map",
     "453.7f9a4a55.chunk.js.map": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27413186.css",
-    "static/js/main.8b81f7be.js"
+    "static/js/main.671de1cf.js"
   ]
 }
