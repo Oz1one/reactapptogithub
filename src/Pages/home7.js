@@ -38,7 +38,7 @@ export default function Home7() {
       
       <div className='controls'>
         <button onClick={togglePlay}>
-          {isPlaying ? '♡＼(￣▽￣)／♡' : '♡( ◡‿◡ )'}
+          {isPlaying ? 'Pause!' : 'Play-->'}
         </button>
       </div>
       <Link to="/Blessing8">Next</Link>

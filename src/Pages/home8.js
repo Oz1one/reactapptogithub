@@ -38,7 +38,7 @@ export default function Home8() {
       
       <div className='controls'>
         <button onClick={togglePlay}>
-          {isPlaying ? '♡＼(￣▽￣)／♡' : '♡( ◡‿◡ )'}
+          {isPlaying ? 'Pause!' : 'Play-->'}
         </button>
       </div>
       <Link to="/Blessing9">Next</Link>
