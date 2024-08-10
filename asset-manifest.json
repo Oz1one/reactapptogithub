@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/reactapptogithub/static/css/main.abc5e92c.css",
-    "main.js": "/reactapptogithub/static/js/main.1775caac.js",
+    "main.css": "/reactapptogithub/static/css/main.27413186.css",
+    "main.js": "/reactapptogithub/static/js/main.049f20e9.js",
     "static/js/453.7f9a4a55.chunk.js": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js",
-    "static/media/Video2.mp4": "/reactapptogithub/static/media/Video2.502794ce5ff613297e3f.mp4",
+    "static/media/Video7.mp4": "/reactapptogithub/static/media/Video7.1f62a3eb72eecb18f11d.mp4",
     "static/media/Video3.mp4": "/reactapptogithub/static/media/Video3.d9d073a4cf102e56251b.mp4",
     "static/media/Video4.mp4": "/reactapptogithub/static/media/Video4.e671973e26111d096668.mp4",
+    "static/media/Video5.mp4": "/reactapptogithub/static/media/Video5.d9fc0070ff40d4809291.mp4",
     "static/media/Video6.mp4": "/reactapptogithub/static/media/Video6.2c4b225c4ad31ee37fa6.mp4",
     "static/media/Video1.mp4": "/reactapptogithub/static/media/Video1.8fd66aa10915ebc30dd0.mp4",
-    "static/media/Video5.mp4": "/reactapptogithub/static/media/Video5.c2d8768ae0db4168164c.mp4",
+    "static/media/Video2.mp4": "/reactapptogithub/static/media/Video2.c2d8768ae0db4168164c.mp4",
+    "static/media/Video8.mp4": "/reactapptogithub/static/media/Video8.3bb9fc20847988b53502.mp4",
+    "static/media/Video11.mp4": "/reactapptogithub/static/media/Video11.b5965681d7f66e139484.mp4",
+    "static/media/Video10.mp4": "/reactapptogithub/static/media/Video10.2b89f673613649e49314.mp4",
+    "static/media/Video9.mp4": "/reactapptogithub/static/media/Video9.afe6326c3015afbdb926.mp4",
     "index.html": "/reactapptogithub/index.html",
-    "main.abc5e92c.css.map": "/reactapptogithub/static/css/main.abc5e92c.css.map",
-    "main.1775caac.js.map": "/reactapptogithub/static/js/main.1775caac.js.map",
+    "main.27413186.css.map": "/reactapptogithub/static/css/main.27413186.css.map",
+    "main.049f20e9.js.map": "/reactapptogithub/static/js/main.049f20e9.js.map",
     "453.7f9a4a55.chunk.js.map": "/reactapptogithub/static/js/453.7f9a4a55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abc5e92c.css",
-    "static/js/main.1775caac.js"
+    "static/css/main.27413186.css",
+    "static/js/main.049f20e9.js"
   ]
 }
