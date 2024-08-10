@@ -1,7 +1,7 @@
 
 import "../Styling/homeMain.css";
 import React, { useRef, useState } from 'react';
-import video from "../Assets/Video11.mp4";
+import video from "../Assets/Video12.mp4";
 import "../Styling/videoPlayerStyle.css";
 import { Link } from 'react-router-dom';
 
@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
  
 
 
-export default function Home11() {
+export default function Home12() {
   
   const videoRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(false);
@@ -41,7 +41,7 @@ export default function Home11() {
           {isPlaying ? '♡＼(￣▽￣)／♡' : '♡( ◡‿◡ )'}
         </button>
       </div>
-      <Link to="/Blessing12">Next</Link>
+      <Link to="http://oz1one.github.io">Next</Link>
     </div>
         </div>
       </div>

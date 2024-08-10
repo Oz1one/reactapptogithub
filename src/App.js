@@ -10,6 +10,7 @@ import Home8 from './Pages/home8.js'
 import Home9 from './Pages/home9.js'
 import Home10 from './Pages/home10.js'
 import Home11 from './Pages/home11.js'
+import Home12 from './Pages/home12.js'
 
 
 import { BrowserRouter as Router, Routes,useRoutes, Route, Link } from "react-router-dom";
@@ -28,7 +29,9 @@ const App = () => {
       { path: '/Blessing8', element: <Home8 />},
       { path: '/Blessing9', element: <Home9 />},
       { path: '/Blessing10', element: <Home10 />},
-      { path: '/Blessing11', element: <Home11 />}
+      { path: '/Blessing11', element: <Home11 />},
+      { path: '/Blessing12', element: <Home12 />}
+
 
 
 
